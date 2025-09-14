@@ -6,17 +6,6 @@
 // Company     : KSU
 //
 //-----------------------------------------------------------------------------
-//
-// File        : c:/My_Designs/Lab2/MUX_4x1/src/MUX_4x1.v
-// Generated   : Sun Sep 14 20:42:17 2025
-// From        : Interface description file
-// By          : ItfToHdl ver. 1.0
-//
-//-----------------------------------------------------------------------------
-//
-// Description : 
-//
-//-----------------------------------------------------------------------------
 
 `timescale 1ps / 1ps
 
@@ -39,3 +28,4 @@ module MUX_4x1 (A, B, C, D, S1, S0, F);
 // Enter your statements here //
 
 endmodule
+
