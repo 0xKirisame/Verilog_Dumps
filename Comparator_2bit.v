@@ -6,17 +6,6 @@
 // Company     : KSU
 //
 //-----------------------------------------------------------------------------
-//
-// File        : c:/My_Designs/Lab2/MUX_4x1/src/Comparator_2bit.v
-// Generated   : Sun Sep 14 20:55:37 2025
-// From        : Interface description file
-// By          : ItfToHdl ver. 1.0
-//
-//-----------------------------------------------------------------------------
-//
-// Description : 
-//
-//-----------------------------------------------------------------------------
 
 `timescale 1ps / 1ps
 
@@ -41,3 +30,4 @@ module Comparator_2bit (
 // Enter your statements here //
 
 endmodule
+
